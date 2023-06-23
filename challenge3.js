@@ -6,8 +6,8 @@
 
 console.warn('security scan starting')
 
-const warning = "wait for the scan to finish"
+const warning = "wait for the scan to finish before closing the browser"
 
-console.log(warning)
+console.log(warning);
 
 /* Wait for the scan to complete before closing the browser */
